@@ -1,10 +1,10 @@
 ## SBP API Java SDK
 
-#### Документация
+- [Документация](#docs)
+
+<a name="docs"><h2>Документация</h2></a>
 
 **API**: [https://e-commerce.raiffeisen.ru/api/doc/sbp.html](Документация)
-
-- [использование] (#use)
 
 #### Использование
 <a name="use"><h2>Исп</h2></a>
